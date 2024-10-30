@@ -1,2 +1,0 @@
-ini saya mebuat di branch main
-Aku membuat ini di branch feature-a
