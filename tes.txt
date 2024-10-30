@@ -1,5 +1,0 @@
-Halo!
-Nama saya ...
-
-Saya sedang membuat teks di branch tes
-Sekarang ada tambahan teks lagi di branch tes
